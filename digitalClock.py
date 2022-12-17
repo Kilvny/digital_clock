@@ -9,5 +9,5 @@ window.mainloop()
 
 # window.configure(bg="black")
 
-label = Label(window, text="WELCOME!",font=("Aria Black",78,'bold'), bg='steelblue',fg='white')
+label = Label(window,font=("Aria Black",78,'bold'), bg='steelblue',fg='white')
 label.pack()
